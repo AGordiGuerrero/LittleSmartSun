@@ -11,4 +11,8 @@ Arduino light dimmer for AC lamps. Controlled with RTC and LDR to turn off light
 
 - Turn off the light in case of enough light in the ambient.
 
+**Based on**
+
+[Instructables Arduino Controlled Light Dimmer](https://www.instructables.com/Arduino-controlled-light-dimmer-The-circuit/)
+
 
