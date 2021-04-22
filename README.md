@@ -1,7 +1,7 @@
 # Little Smart Sun
 Arduino light dimmer for AC lamps. Controlled with RTC and LDR to turn off light if ambient light is enough.
 
-Developed to produce a smooth sunrise and sunset for an small [canary birds](https://en.wikipedia.org/wiki/Domestic_canary) farm, using the natural sunlight when possible.
+Developed to produce a smooth sunrise and sunset for a small [canary birds](https://en.wikipedia.org/wiki/Domestic_canary) farm, using the natural sunlight when possible.
 
 
 
