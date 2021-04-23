@@ -3,6 +3,9 @@
 Arduino light dimmer for AC filament lamps. 
 
 Developed to produce a smooth sunrise and sunset for a small [canary birds](https://en.wikipedia.org/wiki/Domestic_canary) farm, using the natural sunlight when possible.
+<p align="center">
+<img width="600" src="https://user-images.githubusercontent.com/10839138/115840518-10090c00-a41c-11eb-8730-bbcfc3d85c72.jpeg">
+</p>
 
 Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor (LDR) to turn off light if ambient light is enough.
 
