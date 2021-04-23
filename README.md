@@ -48,7 +48,7 @@ Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor 
 
 - Light threshold, sunrise, and sunset times are selected with simple potentiometers.
 <p align="center">
-<img width="300" src="https://user-images.githubusercontent.com/10839138/115838512-0da5b280-a41a-11eb-8cb8-5392a2b8cd71.png">
+<img width="600" src="https://user-images.githubusercontent.com/10839138/115838512-0da5b280-a41a-11eb-8cb8-5392a2b8cd71.png">
 </p>
 
 ## User Controls
@@ -66,9 +66,9 @@ Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor 
 - Sunset time potentiometer.
 
 Conections are described in the Arduino code.
-
-![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/9.jpg)
-
+<p align="center">
+<img width="600" src="https://user-images.githubusercontent.com/10839138/115839487-fdda9e00-a41a-11eb-9f05-97c9e8c37c66.png">
+</p>
 
 
 ## Based on
