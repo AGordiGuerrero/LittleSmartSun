@@ -32,7 +32,7 @@ Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor 
   
   - 100 dim levels (freqStep=100) but only using levels from 20 till 80 (to ensure a real effect on the light of an incandescent bulb)
 
-**Development details**
+## Development details
 
 - Arduino ProMini 5V board.
 
@@ -63,6 +63,9 @@ Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor 
 - Sunset time potentiometer.
 
 Conections are described in the Arduino code.
+
+![](https://raw.githubusercontent.com/AGordiGuerrero/OpenSoundMeter/master/photos/9.jpg)
+
 
 
 ## Based on
