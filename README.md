@@ -47,6 +47,9 @@ Controlled with Real Time Clock (RTC) to keep date and Light Dependent Resistor 
 - Both the timer and the light threshold detector can be disabled with ON/OFF switches.
 
 - Light threshold, sunrise, and sunset times are selected with simple potentiometers.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/10839138/115838512-0da5b280-a41a-11eb-8cb8-5392a2b8cd71.png">
+</p>
 
 ![schematic_01](https://user-images.githubusercontent.com/10839138/115838512-0da5b280-a41a-11eb-8cb8-5392a2b8cd71.png)
 
